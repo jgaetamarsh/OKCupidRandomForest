@@ -1,1 +1,2 @@
 # OKCupidRandomForest
+This was a Codecademy project with no direction or instructions, just data from OK Cupid. I turned several columns into integers, scaled them, and then used features as labels to determine other features. It was only about 60% able to correctly label the profile's gender and income from the other features, almost 80% able to label drink and drug use, but performed well at identifying relationship status. 
